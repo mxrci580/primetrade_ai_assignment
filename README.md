@@ -61,6 +61,17 @@ requirements.txt
 ## Conclusion
 
 This analysis demonstrates how market sentiment influences trader behavior and profitability. Understanding sentiment trends can help improve trading strategies and risk management.
-## Average PnL by Sentiment
 
-![Average PnL](avg_pnl.png)
+## Visualizations
+
+### Average PnL by Market Sentiment
+
+![Average PnL](images/avg_pnl.png)
+
+### Win Rate by Market Sentiment
+
+![Win Rate](images/win_rate.png)
+
+### Trading Volume by Market Sentiment
+
+![Volume](images/volume.png)
